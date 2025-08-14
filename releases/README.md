@@ -2,7 +2,7 @@
 
 This directory contains the latest release files for the ToolmateX Desktop application.
 
-Available at: https://toolmatex-extensions-dev.pages.dev/releases
+Available at: https://releases.toolmatex.com/releases
 
 ## 📥 Installation
 
@@ -35,14 +35,14 @@ The app includes an auto-updater that will check for new versions automatically 
 ## 📊 Current Release
 ```json
 {
-  "version": "0.1.20250814032701",
-  "date": "2025-08-14T03:27:01Z",
-  "commit": "b7f25e4c1593df6e2ed451bc7d59be2874a1e481",
+  "version": "0.1.20250814044943",
+  "date": "2025-08-14T04:49:43Z",
+  "commit": "574f1d67be39ef8109b3ec888b78029a34727855",
   "branch": "release",
   "platforms": ["windows-x86_64", "linux-x86_64"],
   "source_repo": "zonayedpca/toolmatex-desktop-app",
-  "release_url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/tag/v0.1.20250814032701",
-  "cloudflare_url": "https://toolmatex-extensions-dev.pages.dev/releases"
+  "release_url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/tag/v0.1.20250814044943",
+  "cloudflare_url": "https://releases.toolmatex.com/releases"
 }
 ```
 

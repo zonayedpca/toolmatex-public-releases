@@ -1,32 +1,32 @@
 {
-  "version": "0.1.20250814032701",
+  "version": "0.1.20250814044943",
   "macos": {
     "silicon": {
       "dmg": {
         "filename": "ToolmateX App_0.1.0_aarch64.dmg",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_aarch64.dmg",
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_aarch64.dmg",
         "signature": null,
-        "size_bytes": 7351470,
-        "sha256": "4acf75c7ca626e420161c8ea40bce856fffe2f69d7c784effbe157ed37cd8f09",
-        "version": "0.1.20250814032701"
+        "size_bytes": 7351447,
+        "sha256": "5ff39ec3dc1180791ba5393ddb28631ec73bd5f0906034a810b9220ffdb35fec",
+        "version": "0.1.20250814044943"
       }
     },
     "intel": {
       "app.tar.gz": {
         "filename": "ToolmateX App.app.tar.gz",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App.app.tar.gz",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydW5TVUxmSmt4elJkS3E1bGRkMTBjUnBUamF1YWNPQ1llMDJZbTZIWkJOeDlZR2NPdll2UTBXYWJYQ0ZMQ1R3WkovWi9TUFhMYUN1TkhRTTZESWJtdUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTA1CWZpbGU6VG9vbG1hdGVYIEFwcC5hcHAudGFyLmd6CnZPVXdKV0xUdkpXQ3VpR1U0MVllaVdUUjBtaVZLb0VUc1dYWFo3Z1JjSk9SWU96S0FZU3VNM1kyQ0xwTkEzc3hQRUVGOEdGLzZWL1lIdXVIdXk3T0NnPT0K",
-        "size_bytes": 7310421,
-        "sha256": "ab6d187bbbee7c79d2f1991316ffdb13c19f54732893c6ca925f73c172f8765e",
-        "version": "0.1.20250814032701"
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App.app.tar.gz",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWl2NnZrdnVmVjZ2VWhKV0QzUHZSc3J5SHdZMTVqVXNwYXFTcU91cDVqbU94WWxMWFl0QmpUaUpiSnNjK0VYbVlQc3ladUlxdjc2cG94M2JVSTE0TlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTA0CWZpbGU6VG9vbG1hdGVYIEFwcC5hcHAudGFyLmd6Cjc4TzhaUFRFRkd6MVBMc3lmakNVeVVLMVVwMVc5VnFqeDFvRVFhTWlEN2NZUUtsZ1NpSG1tNGJvQXppRTRFVThwbFVIQVBzaTVqN244REN4cVpFU0R3PT0K",
+        "size_bytes": 7310434,
+        "sha256": "71ab432993cbd7494df8b600c695415ba4b188a4c71d3a32c7c0a44c0dba4d07",
+        "version": "0.1.20250814044943"
       },
       "dmg": {
         "filename": "ToolmateX App_0.1.0_x64.dmg",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_x64.dmg",
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_x64.dmg",
         "signature": null,
-        "size_bytes": 7714568,
-        "sha256": "80a04e7102ed8a851ed3887934d978cc3046fc2c0d3083e5ce6c48f29b441a35",
-        "version": "0.1.20250814032701"
+        "size_bytes": 7714571,
+        "sha256": "0165c93c9bb6af6315f003768f300d44891018138e70f9d697042f431cdc9633",
+        "version": "0.1.20250814044943"
       }
     }
   },
@@ -34,19 +34,19 @@
     "x64": {
       "exe": {
         "filename": "ToolmateX App_0.1.0_x64-setup.exe",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_x64-setup.exe",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXA4bEs1aW9zYUFGK1h6VGtTN0ZVdEtNOUZaalJ3Wm1ISlJ4eVZqNFdRY04zUUphUlZLQjdsb2J3bStjT0IvaFVQZUdreGpIbExOSHZHSGdJaldEWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTk5CWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF94NjQtc2V0dXAuZXhlCjlaRVJnWnBIeVd4ejJDTmpzcjV0Y01paTZSbmZ5NWwrSHlJYitHK2FjTUxFdEFKY3JSTGx2cldkV1pSTVZhTEhhQ2dxMnlGdzlpdjhWSnA4Nk1wWERBPT0K",
-        "size_bytes": 5267925,
-        "sha256": "850a7b8accda37b7beb36b5f0b7fdebe02b3face1565b25d390d24c4de2a2017",
-        "version": "0.1.20250814032701"
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_x64-setup.exe",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXNuRUg3STlteGs4RDFrQ1VUL1BPTmdMK2xDUExXZ29jTkhtYTZCMkRsSElwZGFUNzlkOUNhYitOTDJxeW9DZXpWT0hpdlRFMGZWQ29teGQ1UWVuY2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTU4CWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF94NjQtc2V0dXAuZXhlClJMUU9XckJ5RWhwWnFuRVR1UFFVUjJVZm80eGlrR2tiN21SNUxyaTFwaDA5K0xRb1dUaUVDOEFENzhITVdOWkhXczhGakpYMXFsdHJkbzc0M1VGQ0N3PT0K",
+        "size_bytes": 5267416,
+        "sha256": "983614636d4f16c445ec7d35d268df59ef2db78ae39ee65eddab57925205392a",
+        "version": "0.1.20250814044943"
       },
       "msi": {
         "filename": "ToolmateX App_0.1.0_x64_en-US.msi",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_x64_en-US.msi",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWwzNEJxV3lNaC85WlA1dkVadHNNa1B0aWp1K0JPZC9Lc3A4WWpmaWFPS1FDellMNlFpTTdkaFVlMXgyOWphRmErZEw0aWhiM3laWDM4a2NSTUxDclEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTk5CWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF94NjRfZW4tVVMubXNpCjZsOXNVYXVkOEF1c0RhdlVVUmxJVGFmVTJ1N0gzbVdpb2JTUXAxOXlrYmQ0dWphUG5LcEh0bUZKb1VueXU1L3B4VnNBTmNFZGlDKzVnZzFxQkIzWkJBPT0K",
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_x64_en-US.msi",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXN3ZEMrOEtlK1pycHFtcXdicUErTWtoYUU2WEJ2Z0NDc2tYcGN0VTF5eGZ3N0tpMDFucnZoRDF1QnAzZGR1Tk5odTdZM043Y2N3aXNXRVJ5VzlFbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTU4CWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF94NjRfZW4tVVMubXNpCkpmc0paOThWOEJDWGk0bjNtVXdHa2VNYjNlL1gxVDhuUVJvUm9HTWdDandjaEcvVkJWNitkdFp1anFlY1BLb2dDQnNpVllTU2llaWx5R0h4bkJIUENBPT0K",
         "size_bytes": 7213056,
-        "sha256": "3dda53caf91273064ddd96e0fcef947c4b24c4239a9b710985e5d50107d42842",
-        "version": "0.1.20250814032701"
+        "sha256": "5e2aa25e7a78d5f26908b735778451f0ade9467445aad5d0e2249712ec56b74e",
+        "version": "0.1.20250814044943"
       }
     }
   },
@@ -54,27 +54,27 @@
     "x64": {
       "appimage": {
         "filename": "ToolmateX App_0.1.0_amd64.AppImage",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_amd64.AppImage",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXZzK0wydE5GcEVqVlJhb1RRUm0vR1c2N3Rwdm1NMVkzQjE3NUZRZzJZaXIreUVLQm1vYXpVSHdiL2w1cWhPcHJ0TTVqclQyRS9CaUlOY2xCbEJqc0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTQyCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQpPN05CMjBXbTFRbXNNR0JPQ2Y5RHMxN1htbHI4eUZWZGtaTkdkNS85WXVjKzM2bStSb2NBTVJtbUNvcDNoUGpzTGRTb0JkM2tTa1luVU1XMStPcWJCdz09Cg==",
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_amd64.AppImage",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWpFSHk1eDd3ektNNENzWDFDVXFmYWZvM2txVCttUWpkSXhsUWNRbE5QckFDWEJpRW1HZ1dFVXFldUNybjVLRmJNYUJJZ1hKRGZ4c1BPazNyRG5tZXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTMwCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp6anl6dVp6Qk5MdkxWbnhTdkp1Mlk2WjgwVWJHTUhFY2RCRkltMjh3ZlZmNDBvYVYwYjhNYm14bldZZFIxWjI1RUFldHJVdktndmJycG8yeS9TQU5EUT09Cg==",
         "size_bytes": 93844672,
-        "sha256": "ec0b69e93c10ec74bf909c5c829f40abecb342bd3226f1b3147ea9ecbab530b8",
-        "version": "0.1.20250814032701"
+        "sha256": "62968bfafe0a2a7c193b3d79f05eb9f70884f648051bc9c5fb776dbafa06e242",
+        "version": "0.1.20250814044943"
       },
       "deb": {
         "filename": "ToolmateX App_0.1.0_amd64.deb",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App_0.1.0_amd64.deb",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydW5RaWN5UVV0dVYzTjk3bldSa0xRUE1rZURLM0NpQTNxd3pkK3NvdWpZMEJCSU9hN3g5bWhvVWRibUZneHdVOVpTTkh1R3dZZWNxcndNN043RGliZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTQyCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5kZWIKbEJOME5OSkJpS29rdE11UDVEbGNPcVZzVEFJVzFCU3BxNHptd1NnTmI2YXdUVkFQT1lEdGd1WTYvbmNrbExJazA3UFB6c25sQnpDbDBCWjhoR2tPQ1E9PQo=",
-        "size_bytes": 9118728,
-        "sha256": "beee69c48880a456e3c61bba83afa89f1b21a8ef7b859e48e9b37610e356f7de",
-        "version": "0.1.20250814032701"
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_amd64.deb",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXR6dzVibERiKytZUDV6TkF4MlJObFliYzg0VDJqTU90cjZWR2lKNjBPeEZLS1lkWVdMc1pMVVg2aXZQeDUyb0dmbW1QSE1pRVJxbVBIU2hzMzkrWXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTMwCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5kZWIKNnRwZzFQNC8yeHp2cEV1WWZjZm9jSGl3YW1xNXNJYnZEN1hwaHp2cmYwTU44RmVWenJrZ2pDRXpWdlFMdUVsdndKVEtteW9tK1FIU0xuMGt6SmRZQ0E9PQo=",
+        "size_bytes": 9118724,
+        "sha256": "864feb17d15e540244ed5f1440da861971ac15293ae8b21fe34d6271c929b1ef",
+        "version": "0.1.20250814044943"
       },
       "rpm": {
         "filename": "ToolmateX App-0.1.0-1.x86_64.rpm",
-        "url": "https://toolmatex-extensions-dev.pages.dev/releases/ToolmateX App-0.1.0-1.x86_64.rpm",
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydW1iVWtRSXAvblNsMFNsOTFnZzdReDc5ZDg1VllIT3pIWnlQTUUrZDg2cmZnMTl3TGZ4bzR5Mkx4a3p3d0xHVEhVbzhERytSM2duVHRQZTBXOHVVN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQxOTQyCWZpbGU6VG9vbG1hdGVYIEFwcC0wLjEuMC0xLng4Nl82NC5ycG0KUzZzOUQ5V2huaWUwc2dweUtvWXNibkVjT3krSGg5YTdydzFLcXVYMitvaU9heXFVejA1L1Z2azFLTlVDRjdjbnh2czdURW5NYmpQc3ZZUUJXZ1ZaQmc9PQo=",
+        "url": "https://releases.toolmatex.com/releases/ToolmateX App-0.1.0-1.x86_64.rpm",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXR2QnRFKzBWMTRGbGhtK3VzNEc5MEwxN1J5K3QxUms5STlSR2paeFN4WHhVdG5JdjRpK2FjK01jd28xQ3d3akd2Qm1rYzRVaWtlSDBWVXBGU0E2dWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTMwCWZpbGU6VG9vbG1hdGVYIEFwcC0wLjEuMC0xLng4Nl82NC5ycG0KeG5WdUpBVXQrYWZmS0x2RHNCN3lyVGk4b09SYkZmQkhtSDRGaC9kT1lMSlJXS1RCeTlRMG1lZkFxZGp0ODJYNkx1UTM4U3NBcjhzakxIRFlodnQwQWc9PQo=",
         "size_bytes": 9119130,
-        "sha256": "c81122f7cfd1f82a78efef2ecd75af45a621195d0f8037915d3167dde9dbfa5f",
-        "version": "0.1.20250814032701"
+        "sha256": "7ced026d31c400056851652e29434dbb19cce05a68916d82b2555afed5de3938",
+        "version": "0.1.20250814044943"
       }
     }
   }
